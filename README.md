@@ -1,6 +1,8 @@
 # Tela de Seleção de Perfil - Clone da Netflix
 
-Este é um projeto de uma tela de seleção de perfil, semelhante à utilizada pela Netflix, onde os usuários podem escolher quem está assistindo.
+A tela de seleção de perfil é uma parte essencial da experiência do usuário em plataformas de streaming como a Netflix. Ela oferece aos usuários a capacidade de personalizar sua experiência, permitindo que cada membro da família tenha seu próprio perfil com recomendações personalizadas, histórico de visualização e listas de reprodução.
+
+Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript puro, sem a utilização de bibliotecas ou frameworks. Ele visa demonstrar habilidades básicas de desenvolvimento web, incluindo manipulação do DOM, estilização de elementos e interações básicas com JavaScript.
 
 ## Demonstração
 
