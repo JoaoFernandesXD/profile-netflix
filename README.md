@@ -24,9 +24,9 @@ Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript puro, sem a util
 1. Clone este repositório:
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/JoaoFernandesXD/profile-netflix.git)
+git clone https://github.com/JoaoFernandesXD/profile-netflix.git
 
 2. Abra o arquivo index.html em seu navegador web.
 
-##Contribuição
+
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs, etc.
